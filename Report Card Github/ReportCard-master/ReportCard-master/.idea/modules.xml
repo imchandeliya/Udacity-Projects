@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\Udacity Projects\Report Card Github\ReportCard-master\ReportCard-master\ReportCard.iml" filepath="D:\Udacity Projects\Report Card Github\ReportCard-master\ReportCard-master\ReportCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReportCard-master.iml" filepath="$PROJECT_DIR$/ReportCard-master.iml" />
+      <module fileurl="file://D:\Udacity Projects\Report Card Github\ReportCard-master\ReportCard-master\app\app.iml" filepath="D:\Udacity Projects\Report Card Github\ReportCard-master\ReportCard-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
